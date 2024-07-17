@@ -1814,7 +1814,7 @@ a.ns-gallery-item:hover img,
     background-color: rgba(154, 15, 49, 0.85);
     color: #fff;
     z-index: 1;
-    text-align: left;
+    text-align: center;
 }
 
 .ns-gallery-thumb-slide .slider-caption{
